@@ -30,6 +30,12 @@ Press **`Win`** + **`Shift`** + **`S`** → drag a box → it's on your clipboar
 ![Dependencies](https://img.shields.io/badge/dependencies-none-2ea44f?style=for-the-badge)
 ![Privacy](https://img.shields.io/badge/offline-100%25-2ea44f?style=for-the-badge)
 
+<br />
+
+### [⬇️ &nbsp; Download Screenshotter.exe](https://github.com/coldapache/ScreenShotter/releases/latest/download/Screenshotter.exe)
+
+<sub>Double-click to run · ~34 KB · no install · [all releases](https://github.com/coldapache/ScreenShotter/releases)</sub>
+
 </div>
 
 ---
@@ -134,6 +140,16 @@ The tray icon (bottom-right of the taskbar) marks it running:
 ---
 
 ## 🚀 Quick start
+
+### Option A — just download it _(easiest)_
+
+1. Grab **[`Screenshotter.exe`](https://github.com/coldapache/ScreenShotter/releases/latest/download/Screenshotter.exe)** from the latest release.
+2. Double-click it. _(SmartScreen may warn — **More info → Run anyway**.)_
+3. A tray icon appears. Press **`Win+Shift+S`**, drag, paste with **`Alt+V`**.
+
+> To launch on every login: right-click the tray icon → **Start on login**.
+
+### Option B — build from source
 
 **1.** Download / clone this folder anywhere (e.g. your Desktop).
 
